@@ -33,7 +33,7 @@ MANIFEST
 *.manifest
 *.spec
 
-Hafizhoe-Haqqi.jpg
+README.md
 
 # Installer logs
 pip-log.txt
